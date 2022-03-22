@@ -1,1 +1,2 @@
-**_Giveaway bot
+Giveaway bot
+By Darek
